@@ -1,0 +1,1 @@
+print ('result of the math:')
