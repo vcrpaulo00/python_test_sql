@@ -20,5 +20,4 @@ print(f"Division: {division}")
 
 
 
-#print (type(num1))
-#print (type(num2))
+
